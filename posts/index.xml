@@ -6,19 +6,10 @@
     <description>Recent content in Posts on 羽落凡尘</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Apr 2019 23:11:22 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 14:34:53 +0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>读《从文自传》</title>
-      <link>/posts/cong-wen-autobiography/</link>
-      <pubDate>Fri, 19 Apr 2019 23:11:22 +0800</pubDate>
-      
-      <guid>/posts/cong-wen-autobiography/</guid>
-      <description>生词僻字 禳（ráng）解：指向神祈求解除灾祸。 什一之利：什一，即十分之一。泛指商人得到的利润。 耕耨（nòu）：耕田除草。亦泛指耕种。 磔（zhé）狗：古代祭祀时裂牲称为磔。 旱暵（hàn）：天气干旱。 岁暮</description>
-    </item>
     
     <item>
       <title>读《生命 3.0》</title>
@@ -26,7 +17,24 @@
       <pubDate>Fri, 19 Apr 2019 14:34:53 +0800</pubDate>
       
       <guid>/posts/life-3.0/</guid>
-      <description>最近把《生命 3.0》一书看完了，可以说，这本书是我看过的最好的人工智能书籍了。 该书作者迈克斯·泰格马克是未来生命研究所的创始人，这个研究所聚集了一批世界顶级的人工智能专家，史蒂芬·霍金、埃隆·马斯克、</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ws2.sinaimg.cn/large/006tNc79gy1g27z42hbeyj31he0u0go1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;最近把《生命 3.0》一书看完了，可以说，这本书是我看过的最好的人工智能书籍了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;该书作者迈克斯·泰格马克是未来生命研究所的创始人，这个研究所聚集了一批世界顶级的人工智能专家，史蒂芬·霍金、埃隆·马斯克、比尔·盖茨、拉里·佩奇等知名人士也在其中。另外，在 2016 年，打败著名围棋选手李世石的 AlphaGo 创始人戴密斯·哈萨比斯也在其中。&lt;/p&gt;
+
+&lt;p&gt;我喜欢这本书的原因，在于作者把当前热议的人工智能这一命题解剖得十分彻底，对一些名词的注解、定义得更是清晰异常。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>读《从文自传》</title>
+      <link>/posts/cong-wen-autobiography/</link>
+      <pubDate>Thu, 18 Apr 2019 23:11:22 +0800</pubDate>
+      
+      <guid>/posts/cong-wen-autobiography/</guid>
+      <description>&lt;p&gt;再次阅读这本对我青年时代影响较为深远的书。&lt;/p&gt;</description>
     </item>
     
   </channel>
