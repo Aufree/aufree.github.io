@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>aufree.github.io/posts/</loc>
+    <lastmod>2019-04-19T14:34:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>aufree.github.io/</loc>
+    <lastmod>2019-04-19T14:34:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>aufree.github.io/posts/my-first-post/</loc>
+    <lastmod>2019-04-19T14:34:53+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>aufree.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>aufree.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>aufree.github.io/</loc>
     <priority>0</priority>
   </url>
   
